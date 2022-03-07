@@ -1,6 +1,12 @@
 Pdf-renderer improvement branch
 =============================
 
+Notice
+------
+:warning: This repository will not be maintained anymore. We thank all the community for all their contributions over the years.
+
+------
+
 This is a fork of [pdf-renderer](http://java.net/projects/pdf-renderer) (covered by the LGPL-2.1 license) for improvement purposes.
 
 The principal objective of the fork is to improve the original PDF renderer. The original version is able to handle most of the PDF 1.4 features, but has several bugs and missing functionality.
